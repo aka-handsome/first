@@ -1,0 +1,3 @@
+/home/handsome/code/forward_intersect/build/CMakeFiles/forward_intersect.dir
+/home/handsome/code/forward_intersect/build/CMakeFiles/edit_cache.dir
+/home/handsome/code/forward_intersect/build/CMakeFiles/rebuild_cache.dir
